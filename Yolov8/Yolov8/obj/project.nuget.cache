@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7o25j8Y8Qk2Q2kywbsIsWMAeEvxhrw9rThH3d8CJH3xyGyEFwU92TdfhExPLH84EAMkSk1rOw+NcNLTLMMcWw==",
+  "success": true,
+  "projectFilePath": "D:\\work\\C#\\Yolov8\\Yolov8\\Yolov8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.16.0\\microsoft.ml.onnxruntime.1.16.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.16.0\\microsoft.ml.onnxruntime.managed.1.16.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\opencvsharp4\\4.8.0.20230708\\opencvsharp4.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\opencvsharp4.runtime.win\\4.8.0.20230708\\opencvsharp4.runtime.win.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\opencvsharp4.windows\\4.8.0.20230708\\opencvsharp4.windows.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\resultsharp\\0.3.1\\resultsharp.0.3.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
